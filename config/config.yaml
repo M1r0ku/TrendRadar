@@ -90,12 +90,8 @@ platforms:
     name: "知乎"
 
   # === 科技类平台 ===
-  - id: "ithome"
-    name: "IT之家"
   - id: "v2ex"
     name: "V2EX"
-  - id: "pcbeta"
-    name: "远景论坛"
   - id: "sspai"
     name: "少数派"
     
